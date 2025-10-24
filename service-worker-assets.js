@@ -1,13 +1,17 @@
 self.assetsManifest = {
-  "version": "eHNRuJHJ",
+  "version": "iItiqYe5",
   "assets": [
+    {
+      "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": ".nojekyll"
+    },
     {
       "hash": "sha256-tqDt113c/EElKElBlQqfzyezOzCqGcy/fyw1NUwXGqs=",
       "url": "BlueHedge.PwaApp.styles.css"
     },
     {
-      "hash": "sha256-EslB1aKF5gfZcrC3fYZUkSQSS+j5neWFEfnk4U0qin8=",
-      "url": "_framework/BlueHedge.PwaApp.6u7tii5xnh.wasm"
+      "hash": "sha256-cQ+IyJS5j6GpgoIyk+JwHFsnlE1oyw1ZzqCy5VAElRw=",
+      "url": "_framework/BlueHedge.PwaApp.3f7c0gkjdr.wasm"
     },
     {
       "hash": "sha256-JHAfQNyqnfxJcWfmXXlqfkws6T9vhgr1zsp9PPe30jU=",
@@ -134,7 +138,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.5gjltihx5v.wasm"
     },
     {
-      "hash": "sha256-k1K/s4sP7z5C4z6R/Rc2ZZ/mR9V6XCQjSAtidsZe+pM=",
+      "hash": "sha256-MJo87UquRckYQQCqz18dSjxbKGDA3YiSzOL/mcUg0Qo=",
       "url": "_framework/blazor.boot.json"
     },
     {
