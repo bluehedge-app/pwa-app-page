@@ -1,13 +1,13 @@
 self.assetsManifest = {
-  "version": "olPMQkvx",
+  "version": "6TQmlMpF",
   "assets": [
     {
       "hash": "sha256-tqDt113c/EElKElBlQqfzyezOzCqGcy/fyw1NUwXGqs=",
       "url": "BlueHedge.PwaApp.styles.css"
     },
     {
-      "hash": "sha256-EmkYoMUcAj+3X7RXBZTxOuF47H532vvvdu94zfJH/g4=",
-      "url": "_framework/BlueHedge.PwaApp.at5qrzxe8n.wasm"
+      "hash": "sha256-NeYZ+7Yd5+QfxEJqGI3fpGUYJtwikGa5pmED3JrWbCM=",
+      "url": "_framework/BlueHedge.PwaApp.97f52ygg8f.wasm"
     },
     {
       "hash": "sha256-JHAfQNyqnfxJcWfmXXlqfkws6T9vhgr1zsp9PPe30jU=",
@@ -134,7 +134,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.5gjltihx5v.wasm"
     },
     {
-      "hash": "sha256-6h2FzTrUgTvaJl7O9S6DoujTbyCRRnAyUicRAKn1D9o=",
+      "hash": "sha256-eRRozjrkEAXz8OdcI8oSsZEXIsExA9v9pYT40V82fdY=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -186,11 +186,11 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-wIY3dlDdEVWAt8IGlXn3tluvrueNEOVRIUeTgVTnfr0=",
+      "hash": "sha256-TJnCuNiPlK7hIVlSoFP1aIxBi8fj0dUz+gjIBu6QiZ8=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-Yib07gCIjcG8H5nQZjenZIwTmU82fth8DShUsleq2rQ=",
+      "hash": "sha256-2xyKpipqwYd/zy03iS2+UtD6tGgKcPxX0rtjffR8tGc=",
       "url": "manifest.webmanifest"
     }
   ]

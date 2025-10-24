@@ -1,6 +1,6 @@
 {
-  "name": "BlueHedge.PwaApp",
-  "short_name": "BlueHedge.PwaApp",
+  "name": "Blue Hedge",
+  "short_name": "Blue Hedge",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
