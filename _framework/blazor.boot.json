@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlueHedge.PwaApp",
   "resources": {
-    "hash": "sha256-s/O3acip2hlOXebwmKSmlzNFfHJGIppnW4rjwjjWo/Y=",
+    "hash": "sha256-hLsiWDtW0R6YVxGGJr1okJlTtrHeQC2O55YOjEFhqG4=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.gq23rahbum.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.kk052fg825.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -34,7 +34,7 @@
       "System.Text.Json.15h333vn2t.wasm": "System.Text.Json.wasm",
       "System.Text.RegularExpressions.5gjltihx5v.wasm": "System.Text.RegularExpressions.wasm",
       "System.Private.CoreLib.wnmu3pxxhm.wasm": "System.Private.CoreLib.wasm",
-      "BlueHedge.PwaApp.97f52ygg8f.wasm": "BlueHedge.PwaApp.wasm",
+      "BlueHedge.PwaApp.uybez5logm.wasm": "BlueHedge.PwaApp.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.l4ptthxatg.js": "dotnet.native.js",
       "dotnet.native.d2w7colv7e.wasm": "dotnet.native.wasm",
@@ -91,7 +91,7 @@
       "System.Text.Encodings.Web.9rjk8as0i7.wasm": "sha256-+y7W1KnwkH6Qwrz33TSxWAn666Cbuzvn6QwDB/OpQgI=",
       "System.Text.Json.15h333vn2t.wasm": "sha256-ewfAWl8DuTyvZPCN4KtKaK4zXECxzH+IWRudmvzCogI=",
       "System.Text.RegularExpressions.5gjltihx5v.wasm": "sha256-tWq9vht0rY9iM6tvHI4CaV2Nogm0sR+EJEOy72TVrIk=",
-      "BlueHedge.PwaApp.97f52ygg8f.wasm": "sha256-NeYZ+7Yd5+QfxEJqGI3fpGUYJtwikGa5pmED3JrWbCM="
+      "BlueHedge.PwaApp.uybez5logm.wasm": "sha256-Fru61QCDsrgJUE86Fhz/kvp6SC/O36tLVEurgZ5d9oE="
     }
   },
   "cacheBootResources": true,
