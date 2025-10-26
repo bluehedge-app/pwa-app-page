@@ -1,8 +1,8 @@
 self.assetsManifest = {
-  "version": "094paBiT",
+  "version": "UcTdn95E",
   "assets": [
     {
-      "hash": "sha256-qOKcWz5esKQQB7Es03uIS9wVf18/etgnXDJCiDSeSG8=",
+      "hash": "sha256-r6nhs+pcasC1K/9azL9X7Kq/1egUYGikwZ3FXO+mbos=",
       "url": "BlueHedge.PwaApp.styles.css"
     },
     {
@@ -158,16 +158,16 @@ self.assetsManifest = {
       "url": "_content/Microsoft.FluentUI.AspNetCore.Components/js/loading-theme.js"
     },
     {
-      "hash": "sha256-3sJnCvG+/WOD4iywvuKlCqnJFqhwzBgCIhq7WY0HgQw=",
-      "url": "_framework/BlueHedge.Core.a2hfpc5211.wasm"
+      "hash": "sha256-UgMBlwA6k+rxSzpa4JKyX7pFTN+LSmQSjbA8O/NdDvk=",
+      "url": "_framework/BlueHedge.Core.2nnsi518jp.wasm"
     },
     {
-      "hash": "sha256-G8PUXFdMY5vI7Ny/uXD83T08rnumBL56zae9scGnfQc=",
-      "url": "_framework/BlueHedge.Development.1185dixznc.wasm"
+      "hash": "sha256-iRKpPSC3LORXTd0GH5ZGnIy2/S4bVGxthA6b2os+Q4Y=",
+      "url": "_framework/BlueHedge.Development.ha1g0m128w.wasm"
     },
     {
-      "hash": "sha256-juXYmqeWDMtkg3q0SBkPUwGrnP/gB2uHsr/49PGQTqc=",
-      "url": "_framework/BlueHedge.PwaApp.qhlzib7vur.wasm"
+      "hash": "sha256-Xa4kUKzNUvy+5rN4kRkUuAkUwGlXsLqDyX15Spf/+ag=",
+      "url": "_framework/BlueHedge.PwaApp.73ftchrdes.wasm"
     },
     {
       "hash": "sha256-RlYdas3OIG83awHutqQsGzjFKnneqqWJCYowg47Atdg=",
@@ -222,16 +222,16 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.Extensions.Primitives.a5mjza44y9.wasm"
     },
     {
-      "hash": "sha256-ld1bQxkD0xhulP3hcJrHGFbbitFilm0a6UnTIz4RzNY=",
-      "url": "_framework/Microsoft.FluentUI.AspNetCore.Components.Icons.Filled.11357u2q54.wasm"
+      "hash": "sha256-cLUcGwXmMlpL2QXedSvUmXN+Q4BMt3etWXgiSuViRr8=",
+      "url": "_framework/Microsoft.FluentUI.AspNetCore.Components.Icons.Filled.oip9kuc9xw.wasm"
     },
     {
-      "hash": "sha256-ognE0BQX7EF/sYl88NBb+Uqf7FuyohvCvOfhR6UXuks=",
-      "url": "_framework/Microsoft.FluentUI.AspNetCore.Components.Icons.Regular.2gqjdsm2zp.wasm"
+      "hash": "sha256-6ERT4jQTOcfD4Fv3UysykhOPc6Ad2vA+cN46tXkw7sk=",
+      "url": "_framework/Microsoft.FluentUI.AspNetCore.Components.Icons.Regular.sbrnho4ehd.wasm"
     },
     {
-      "hash": "sha256-cB7Q27AgXN626ftgVnHA2RGMHbrngqAc/3gKr2Y+Udc=",
-      "url": "_framework/Microsoft.FluentUI.AspNetCore.Components.ouofytku0g.wasm"
+      "hash": "sha256-BRXhm+5fZ8uPRb2snil5GfA83wK/wFUq7pCC6RDlR4I=",
+      "url": "_framework/Microsoft.FluentUI.AspNetCore.Components.vbtiua09m8.wasm"
     },
     {
       "hash": "sha256-vScvGCGFOzwoTsy7VKfMU9uuEskXbOdWabIc80iDa9g=",
@@ -310,20 +310,20 @@ self.assetsManifest = {
       "url": "_framework/System.ObjectModel.pkusu96sda.wasm"
     },
     {
-      "hash": "sha256-6qWKgTUocfrK50DHtfWUSOt4ks5iOoxDPUv5Q9jY7ak=",
-      "url": "_framework/System.Private.CoreLib.6kov8tr2y6.wasm"
+      "hash": "sha256-Ut1/Xx1P44igvwpR1gZIAcy5K2k3OPc0MbdkUOopVWw=",
+      "url": "_framework/System.Private.CoreLib.ijjjx2fdoj.wasm"
     },
     {
       "hash": "sha256-s+2SWCcjjhuB4sVdmLql8m0s+AJpq280L84m2dWQ0SU=",
       "url": "_framework/System.Private.Uri.h7k8unmcze.wasm"
     },
     {
-      "hash": "sha256-fcbhHB7hDI448FbXH9oGRMD0YiK7sml91c0Cfomkn6c=",
-      "url": "_framework/System.Runtime.InteropServices.JavaScript.lu7n7av6ff.wasm"
+      "hash": "sha256-cEt6/Ue9mOQXyfuQjVsXk5QdwQPZPgtM4HlbNLHtkbE=",
+      "url": "_framework/System.Runtime.47f2e908s9.wasm"
     },
     {
-      "hash": "sha256-tTVCFcaDM7GgeyaCFG9uM89l9/D0wrlaPbZ5NrBdX0E=",
-      "url": "_framework/System.Runtime.j6azwj2h21.wasm"
+      "hash": "sha256-fcbhHB7hDI448FbXH9oGRMD0YiK7sml91c0Cfomkn6c=",
+      "url": "_framework/System.Runtime.InteropServices.JavaScript.lu7n7av6ff.wasm"
     },
     {
       "hash": "sha256-SQ1+aS+lCxp43qhvbxWS01rhQfbvNeDSN0xyk2P9/Hc=",
@@ -338,7 +338,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.5gjltihx5v.wasm"
     },
     {
-      "hash": "sha256-prrxLRduwYs1eNLZRB7MMgjvwLRA39kUxYo/q4csrEg=",
+      "hash": "sha256-djNtGreK5AY7yu7qt+wjXn+DDgy0iNf6Dx6CTWeU9oY=",
       "url": "_framework/blazor.boot.json"
     },
     {
