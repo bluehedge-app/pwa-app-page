@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "rGQwivvR",
+  "version": "tu6oc4RR",
   "assets": [
     {
       "hash": "sha256-r6nhs+pcasC1K/9azL9X7Kq/1egUYGikwZ3FXO+mbos=",
@@ -166,12 +166,12 @@ self.assetsManifest = {
       "url": "_framework/BlueHedge.Core.2nnsi518jp.wasm"
     },
     {
-      "hash": "sha256-MoDjdxLM7t0QRHF3Ro5yKpRKk0gKt+Kjruz3gsLSK8c=",
-      "url": "_framework/BlueHedge.Development.is38bk8ej7.wasm"
+      "hash": "sha256-PnGNETpV6vkBlMzV2CW7Ocao85aawZLaKy5IqT0+oKc=",
+      "url": "_framework/BlueHedge.Development.i3wbyuuiyu.wasm"
     },
     {
-      "hash": "sha256-hk6qXr3eTR/IFaHjrQZHuWLwyFfFJPybLC/mBDN0qG0=",
-      "url": "_framework/BlueHedge.PwaApp.u3zjxmqc1v.wasm"
+      "hash": "sha256-hc5BrlKZ0nesesGYNsxBC8OQ1IdhGc1pgIhpR8FC3ss=",
+      "url": "_framework/BlueHedge.PwaApp.vv4z6u34a7.wasm"
     },
     {
       "hash": "sha256-RlYdas3OIG83awHutqQsGzjFKnneqqWJCYowg47Atdg=",
@@ -346,7 +346,7 @@ self.assetsManifest = {
       "url": "_framework/System.Threading.6wxzpv4ki1.wasm"
     },
     {
-      "hash": "sha256-17fSXE+LZGTvT2f1u6pKjp8cX/xzX4Lw00B3kvyt8R4=",
+      "hash": "sha256-6Z3H3XlQSyylCV21NdKCnEAU6BDiu7/i4o7/SXGQw3E=",
       "url": "_framework/blazor.boot.json"
     },
     {
