@@ -1,12 +1,12 @@
 {
   "mainAssemblyName": "BlueHedge.PwaApp",
   "resources": {
-    "hash": "sha256-F9721OPrGCJb0bWi9sWp39US+ehYvysMuLoahYezcc0=",
+    "hash": "sha256-mPMkIA+4PQsA4bvYp0nBjVl8U++vM7edY288FoLOphw=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
       "BlueHedge.Core.2nnsi518jp.wasm": "BlueHedge.Core.wasm",
-      "BlueHedge.Development.i3wbyuuiyu.wasm": "BlueHedge.Development.wasm",
-      "BlueHedge.PwaApp.vv4z6u34a7.wasm": "BlueHedge.PwaApp.wasm",
+      "BlueHedge.Development.nuubtmoawf.wasm": "BlueHedge.Development.wasm",
+      "BlueHedge.PwaApp.z9sn6p5hl2.wasm": "BlueHedge.PwaApp.wasm",
       "Microsoft.AspNetCore.Components.Forms.uen3995ovl.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.pu5l01at2g.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.mgbdiangqt.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -79,8 +79,8 @@
     "assembly": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
       "BlueHedge.Core.2nnsi518jp.wasm": "sha256-UgMBlwA6k+rxSzpa4JKyX7pFTN+LSmQSjbA8O/NdDvk=",
-      "BlueHedge.Development.i3wbyuuiyu.wasm": "sha256-PnGNETpV6vkBlMzV2CW7Ocao85aawZLaKy5IqT0+oKc=",
-      "BlueHedge.PwaApp.vv4z6u34a7.wasm": "sha256-hc5BrlKZ0nesesGYNsxBC8OQ1IdhGc1pgIhpR8FC3ss=",
+      "BlueHedge.Development.nuubtmoawf.wasm": "sha256-78WtUEdSEc4sHD1C6nLPcPwbni/avNcn4GSrEUQUODY=",
+      "BlueHedge.PwaApp.z9sn6p5hl2.wasm": "sha256-50h/aQu3Qe1sk2oJ3kG51iB9qAWS+uDXyKwxXaHHgwU=",
       "Microsoft.AspNetCore.Components.Forms.uen3995ovl.wasm": "sha256-RlYdas3OIG83awHutqQsGzjFKnneqqWJCYowg47Atdg=",
       "Microsoft.AspNetCore.Components.pu5l01at2g.wasm": "sha256-H2vg840G/zGfDDDXUn8deF//bJteSr05tT7CdhY0hxA=",
       "Microsoft.AspNetCore.Components.Web.mgbdiangqt.wasm": "sha256-RqXtH4YyDeNk3hfBUglLE34oCMLqHUZqSlwouUHzVEM=",
