@@ -1,12 +1,12 @@
 {
   "mainAssemblyName": "BlueHedge.PwaApp",
   "resources": {
-    "hash": "sha256-TqPjL8GiO5RFCM0ug9KmAs3wztAyJjeLj5j7HY67Ens=",
+    "hash": "sha256-FqMkEbDx/nSjh1Q/cONJoHXG6hiTX8JE7mH9cwrhGJ4=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
-      "BlueHedge.Development.pwbz2p4t1e.wasm": "BlueHedge.Development.wasm",
-      "BlueHedge.Interactive.or1vhg5omv.wasm": "BlueHedge.Interactive.wasm",
-      "BlueHedge.PwaApp.6fohujttzf.wasm": "BlueHedge.PwaApp.wasm",
+      "BlueHedge.Development.exunwh08pk.wasm": "BlueHedge.Development.wasm",
+      "BlueHedge.Interactive.i7qqt4j338.wasm": "BlueHedge.Interactive.wasm",
+      "BlueHedge.PwaApp.umqczx0bl1.wasm": "BlueHedge.PwaApp.wasm",
       "KristofferStrube.Blazor.FileAPI.y7qr9qlbwg.wasm": "KristofferStrube.Blazor.FileAPI.wasm",
       "KristofferStrube.Blazor.FileSystem.l7rerd8wys.wasm": "KristofferStrube.Blazor.FileSystem.wasm",
       "KristofferStrube.Blazor.FileSystemAccess.boci0gnpg6.wasm": "KristofferStrube.Blazor.FileSystemAccess.wasm",
@@ -88,9 +88,9 @@
     },
     "assembly": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
-      "BlueHedge.Development.pwbz2p4t1e.wasm": "sha256-Ce0YXRPMiKtrwT8hNfenKQnCguYYNbFPiMnyBYF2wIQ=",
-      "BlueHedge.Interactive.or1vhg5omv.wasm": "sha256-TKQoiBUlKk2nN9XEXjthxqLB/w2OdGk8PTWhkJZtXBk=",
-      "BlueHedge.PwaApp.6fohujttzf.wasm": "sha256-4q+41YD7rYdOHQ1kRViG05fkJ0Qg0iXiXttTZJJ/KI4=",
+      "BlueHedge.Development.exunwh08pk.wasm": "sha256-UgAVtxXtlapjL7rDAevlZzOzQ4TA3mXNQUu/VdC1riI=",
+      "BlueHedge.Interactive.i7qqt4j338.wasm": "sha256-LsSwRxgFR3Ee19D+/ZaTPHTF32lnPN5HgpSqPIjROUc=",
+      "BlueHedge.PwaApp.umqczx0bl1.wasm": "sha256-1vju/M41k7BNeAudYtXKyDMg6OxJnQ4bgYRL5kuiOo8=",
       "KristofferStrube.Blazor.FileAPI.y7qr9qlbwg.wasm": "sha256-fh4ILUUh28USViAKwalYFhEcAck0oS0C5L+QAz9qbbA=",
       "KristofferStrube.Blazor.FileSystem.l7rerd8wys.wasm": "sha256-v69kLYHWooWdHCsdC8nf6Xl1osqY7vUwRqvjWczZ3CE=",
       "KristofferStrube.Blazor.FileSystemAccess.boci0gnpg6.wasm": "sha256-Vf9Bkkt936OAiuCNFxrQC7TSulhPMSSoR2ttxDMF4Wk=",
