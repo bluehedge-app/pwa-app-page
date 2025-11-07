@@ -13,6 +13,12 @@
     <link href="manifest.webmanifest" rel="manifest" />
     <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
     <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
+
+    <script>
+        function jSStreamReference(streamRef) { return streamRef.stream(); }
+        function getAttribute(object, attribute) { return object[attribute]; }
+        function setAttribute(object, attribute, value) { object[attribute] = value; }
+    </script>
 </head>
 
 <body>
@@ -30,6 +36,7 @@
         <span class="dismiss">🗙</span>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
+    <script src="_content/TG.Blazor.IndexedDB/indexedDb.Blazor.js"></script>
     <script>navigator.serviceWorker.register('service-worker.js');</script>
 </body>
 
