@@ -18,6 +18,7 @@
         function jSStreamReference(streamRef) { return streamRef.stream(); }
         function getAttribute(object, attribute) { return object[attribute]; }
         function setAttribute(object, attribute, value) { object[attribute] = value; }
+        function scrollToEnd(object) { window.setTimeout(() => object.scrollIntoView(), 100); }
     </script>
 </head>
 
